@@ -1,0 +1,3 @@
+(OnUserCreate) {
+    print s: 'Hello, C:1!' .
+}
