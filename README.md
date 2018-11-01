@@ -4,7 +4,7 @@ The C:1 Lexer
 C:1 is a functional language in the paradigm functional and in the sense that nearly everything is a function
 
 ```
-(Create) {
+(OnUserCreate) {
   print s: 'Hello, World!' .
 }
 ```
